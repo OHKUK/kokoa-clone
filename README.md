@@ -1,3 +1,3 @@
 # Kokoa clone 개발
 
-CSS got so much better!
+HTML & CSS ae so much fun!
