@@ -4,6 +4,9 @@
 @import "components/stauts-bar.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
+@import "components/user-components.css";
+
+
 
 /* screens */
 @import "screens/login.css";
